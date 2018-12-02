@@ -33,12 +33,12 @@
 ### 기본 명령어
 
 - **docker ps -a** : 현재 실행중인 모든 컨테이너 보기
-- **docker start ~** : 컨테이너 시작하기
-- **docker attach ~** : 컨테이너 접속하기
-- **docker stop ~** : 컨테이너 중단하기
-- **docker rm ~** : 컨테이너 지우기
+- **docker start (컨테이너 명)** : 컨테이너 시작하기
+- **docker attach (컨테이너 명)** : 컨테이너 접속하기
+- **docker stop (컨테이너 명)** : 컨테이너 중단하기
+- **docker rm (컨테이너 명)** : 컨테이너 지우기
 - **docker image ls** : 현재 가지고 있는 모든 이미지 보기
-- **docker image rm ~** : 이미지 지우기
+- **docker image rm (이미지 명)** : 이미지 지우기
 - *Ctrl + P + Q* : 컨테이너 나가기
 - **exit** : 컨테이너 종료
 
