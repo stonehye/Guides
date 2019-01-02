@@ -88,6 +88,10 @@
    $ adduser (유저명)
    ```
 
+8. FileZilla 접속
+
+   sftp://().sogang.ac.kr 로 접속
+
 # 참고자료
 
 - [가장 빨리 만나는 도커(Docker)](http://pyrasis.com/private/2014/11/30/publish-docker-for-the-really-impatient-book)
