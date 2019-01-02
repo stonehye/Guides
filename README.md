@@ -94,3 +94,4 @@
 - [초보를 위한 도커 안내서](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html)
 - [컨테이너 기반 가상화 플랫폼 ‘도커(Doker)’의 이해](https://tacademy.sktechx.com/live/player/onlineLectureDetail.action?seq=125)
 - [Docker 설치문서](https://github.com/sogang-mm/lab/wiki/Docker-%EC%84%A4%EC%B9%98-%EB%AC%B8%EC%84%9C) 
+- [66. [Docker] Docker 컨테이너로의 sftp 사용 - filezilla를 통한 예제](https://m.blog.naver.com/PostView.nhn?blogId=alice_k106&logNo=220650722592&proxyReferer=https%3A%2F%2Fwww.google.com%2F) 
