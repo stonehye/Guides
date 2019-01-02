@@ -13,7 +13,7 @@
 4. 생성된 이미지 확인 
 
    ```
-   $ docker images
+   $ docker image ls
    ```
 
 5. 이미지를 컨테이너에 올리기 
