@@ -95,6 +95,18 @@
    ```
    $ passwd
    ```
+   
+   7-2. ssh 루트 계정 접속제한 해제하기
+   ```
+   $ vi /etc/ssh/sshd_config
+   ```
+   ```
+   # PermitRootLogin without-password 을 아래로 변경
+   PermitRootLogin yes
+   ```
+   ```
+   $ /etc/init.d/ssh restart
+   ```
 
 8. FileZilla 접속
 
