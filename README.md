@@ -9,4 +9,5 @@ The main content is written on the [wiki:book:](https://github.com/stonehye/Guid
 ## Posts to be added or modified later
 
 - How to initialize and set up Linux
+- Pycharm ssh 연결하기 (Windows Pycharm 2018.2.7) 
 
